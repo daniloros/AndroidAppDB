@@ -1,6 +1,5 @@
 [{"name":"Univaq","lat":42.368642,"lon":13.350328,"image":"images/Univaq.jpg","descr":"L'università nel capoluogo abruzzese","phone":"3493240700","address":"Via Vetoio 49","email":"info@univaq.com"},
 {"name":"Decathlon ","lat":42.361929,"lon":13.405602,"image":"images/Decathlon.jpg","descr":"Il negozio di articoli sportivi","phone":"3917214982","address":"Via Filippo Palizzi, 7","email":"info@decathlon.it"},
 {"name":"FootLocker","lat":42.356988,"lon":13.412915,"image":"images/FootLocker.jpg","descr":"Negozio internazionale di scarpe","phone":"3461202941","address":"Via Guglielmo Enrico Fritzche","email":"info@footlocker.com"},
-{"name":"Gucci","lat":42.348208,"lon":13.404207,"image":"images/Gucci.jpg","descr":"Negozio d'alta moda","phone":"3484366708","address":"Via Carlo Chiarizia 33","email":"info@gucci.com"},
 {"name":"H&M","lat":42.374507,"lon":13.356093,"image":"images/H&M.jpg","descr":"Negozio del marchio di moda","phone":"3408825392","address":"Via antica arischia 42","email":"info@h&m.com.com"},
 {"name":"MediaWorld","lat":42.364682,"lon":13.342044,"image":"images/MediaWorld.jpg","descr":"Negozio di elettronica","phone":"3312566473","address":"Via Madonna delle Grazie 16","email":"info@mediaworld.com"}]
